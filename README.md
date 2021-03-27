@@ -21,4 +21,4 @@ All methods take a function, an interval, a starting point and a iteration numbe
 - Examples
   - solexac1.m and solexac2.m solve two ODEs exactly so that the precission of the different methods can be compared
   - pendulus.m solves the simple pendulum ODE, while pendulo.m solves it and compares it with it's linealization.
-  - testmet: Loads the arguments from the file datos and then solves it using the provided method. ** Provides a quick and easy way to compare different method, specially since they might behave differently when stability is an issue. **
+  - testmet: Loads the arguments from the file datos and then solves it using the provided method. **Provides a quick and easy way to compare different method, specially since they might behave differently when stability is an issue.**
