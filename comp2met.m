@@ -1,5 +1,5 @@
 function comp2met(met1,met2)
-%Compara dos metodos y los imprime en colores diferentes
+%Compares met1 and met2 by plotting them in different colours
 close all
 datos
 
