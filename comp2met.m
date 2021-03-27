@@ -1,5 +1,5 @@
 function comp2met(met1,met2)
-%Compara dos metodos y los imprime en colores diferentes yupiyuu
+%Compara dos metodos y los imprime en colores diferentes
 close all
 datos
 
